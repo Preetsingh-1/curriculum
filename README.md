@@ -7,7 +7,7 @@ Lessons are structured through a combination of original written content and a c
 This repo contains the actual lesson files used on our website. For the actual TOP app that pulls in this lesson content and contains our front-end and back-end code, please go to the [main TOP repo](https://github.com/TheOdinProject/theodinproject).
 
 Our community can be found on the [TOP Discord server](https://discord.gg/fbFCkYabZB).
-#web development demo
+
 ## Contributing
 
 The Odin Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community. If you would like to contribute to our curriculum, be sure to thoroughly read our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
@@ -19,6 +19,7 @@ Some of the things you can do to contribute to our curriculum include:
 * Add new resource links you think would make a lesson better.
 * Work on entirely new lessons after getting approval.
 
+*this very helpfull internship program which help us to improve our knowledge and skills.
 **Happy Coding!**
 
 \* See [license.md](https://github.com/TheOdinProject/curriculum/blob/main/license.md) for usage details.
